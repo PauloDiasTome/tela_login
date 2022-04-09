@@ -10,7 +10,7 @@
 - CSS
 
 ### Teste você mesmo!
-<a href="https://paulodias-carousel-css-pure.netlify.app/" target="_blank">Clique aqui para testar tela de login!</a>
+<a href="https://paulo-dias-tela-de-login.netlify.app/" target="_blank">Clique aqui para testar tela de login!</a>
 
 ### Vídeo no Youtube!
 <a href="https://www.youtube.com/watch?v=XbX6RX0jHm0" target="_blank">Clique aqui para para assistir vídeo</a>
