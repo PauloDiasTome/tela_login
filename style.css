@@ -45,7 +45,7 @@ body {
 .login .row input{
     font-size: 18px;
     height: 40px;
-    width: calc(100% - 50px);
+    width: calc(100% - 57px);
     border-radius: 5px;
     outline: none;
     border:none;
