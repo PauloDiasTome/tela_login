@@ -31,37 +31,37 @@ body {
     width: 70px;
 }
 
-.login form{
+.login form {
     padding: 20px;
 }
 
-.login .row{
+.login .row {
     margin-top: 20px;
     margin-bottom: 20px;
     text-align: center;
     position: relative;
 }
 
-.login .row input{
+.login .row input {
     font-size: 18px;
     height: 40px;
-    width: calc(100% - 57px);
+    width: calc(100% - 50px);
     border-radius: 5px;
     outline: none;
-    border:none;
+    border: none;
     padding-left: 50px;
-    border:solid 2px #1e2d4063;
+    border: solid 2px #1e2d4063;
 }
 
-.login .row input:focus{
+.login .row input:focus {
     border: solid 2px #1e2d40cf;
 }
 
-.login .row input::placeholder{
+.login .row input::placeholder {
     font-size: 16px;
 }
 
-.login .row .fas{
+.login .row .fas {
     position: absolute;
     background-color: #1e2d40;
     height: 100%;
@@ -72,28 +72,34 @@ body {
     border-radius: 5px 0 0 5px;
 }
 
-.login .row button{
+.login .row button {
     font-size: 18px;
     width: 100%;
     height: 40px;
     border-radius: 5px;
-    border:none;
+    border: none;
     background-color: #1e2d40;
-    color:#fff;
+    color: #fff;
     margin-bottom: 10px;
 }
 
-.login .row button:hover{
+.login .row button:hover {
     background-color: #1e2d40e5;
 }
 
-.login .row a{
+.login .row a {
     float: right;
-    color:#1e2d40;
+    color: #1e2d40;
     text-decoration: none;
     font-size: 13px;
 }
 
-.login .row a:hover{
+.login .row a:hover {
     text-decoration: underline;
+}
+
+@media screen and (max-width: 500px) {
+    .login .row input {
+        width: calc(100% - 60px);
+    }
 }
