@@ -5,12 +5,15 @@
     <img src="./img_readme/Animacao.gif" alt="gif" width="80%" style="border:solid"/>
 </div><br/><br/>
 
-### Tela de login bonita responsiva feira com muito amor e carinho 😃
+### Tela de login bonita responsiva feita com muito amor e carinho 🥰
 - HTML
 - CSS
 
 ### Teste você mesmo!
-<a href="https://paulodias-carousel-css-pure.netlify.app/" target="_blank">Clique aqui para testar carrossel!</a>
+<a href="https://paulodias-carousel-css-pure.netlify.app/" target="_blank">Clique aqui para testar tela de login!</a>
+
+### Vídeo no Youtube!
+<a href="https://www.youtube.com/watch?v=XbX6RX0jHm0" target="_blank">Clique aqui para para assistir vídeo</a>
 
 
 <br/><br/><br/>
